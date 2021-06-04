@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591649917389",
+    "project_id": "futurefoundation-abbfd",
+    "storage_bucket": "futurefoundation-abbfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591649917389:android:db89e820b1954471b2dc84",
+        "android_client_info": {
+          "package_name": "com.example.future_foundation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591649917389-vshhd05208781ubaleovo2bcv0td56k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm3MfaNgsbRaBzZj6PlTHHySpVsinacSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591649917389-vshhd05208781ubaleovo2bcv0td56k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

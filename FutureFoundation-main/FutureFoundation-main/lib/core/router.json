@@ -1,0 +1,55 @@
+{
+    "last_updated": "Fri, 04 Jun 2021 17:51:32 GMT",
+    "routes": [
+        {
+            "file_path": "views/splash_screen/splash_screen_view.dart",
+            "route_name": "splash_screenViewRoute",
+            "view_name": "SplashScreenView"
+        },
+        {
+            "file_path": "views/login_screen/login_screen_view.dart",
+            "route_name": "login_screenViewRoute",
+            "view_name": "LoginScreenView"
+        },
+        {
+            "file_path": "views/home_screen/home_screen_view.dart",
+            "route_name": "home_screenViewRoute",
+            "view_name": "HomeScreenView"
+        },
+        {
+            "file_path": "views/all_courses_screen/all_courses_screen_view.dart",
+            "route_name": "all_courses_screenViewRoute",
+            "view_name": "AllCoursesScreenView"
+        },
+        {
+            "file_path": "views/profile_screen/profile_screen_view.dart",
+            "route_name": "profile_screenViewRoute",
+            "view_name": "ProfileScreenView"
+        },
+        {
+            "file_path": "views/time_table_screen/time_table_screen_view.dart",
+            "route_name": "time_table_screenViewRoute",
+            "view_name": "TimeTableScreenView"
+        },
+        {
+            "file_path": "views/online_class_screen/online_class_screen_view.dart",
+            "route_name": "online_class_screenViewRoute",
+            "view_name": "OnlineClassScreenView"
+        },
+        {
+            "file_path": "views/result_screen/result_screen_view.dart",
+            "route_name": "result_screenViewRoute",
+            "view_name": "ResultScreenView"
+        },
+        {
+            "file_path": "views/fee_screen/fee_screen_view.dart",
+            "route_name": "fee_screenViewRoute",
+            "view_name": "FeeScreenView"
+        },
+        {
+            "file_path": "views/course_detail/course_detail_view.dart",
+            "route_name": "course_detailViewRoute",
+            "view_name": "CourseDetailView"
+        }
+    ]
+}
